@@ -16,7 +16,7 @@ It will be difficult to learn Flebox if you don't pay attention to what you do.
 
 ## Live Demo
 
-[Live Demo Link](https://abrahm18.github.io/odin-recipes/)
+[Live Demo Link](https://abrahm18.github.io/Introduction-to-Flexbox/)
 
 
 ## Starting
