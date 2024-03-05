@@ -6,7 +6,7 @@
 
 ![screenshot](flebox.png)
 
-What you will see below is everything necessary to be able to cook what a Tequeño empanada and pancake is.
+It will be difficult to learn Flebox if you don't pay attention to what you do.
 
 ## Built with
 
